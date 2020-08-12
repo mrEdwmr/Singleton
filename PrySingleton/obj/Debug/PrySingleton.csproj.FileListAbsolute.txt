@@ -1,0 +1,13 @@
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\bin\Debug\PrySingleton.exe.config
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\bin\Debug\PrySingleton.exe
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\bin\Debug\PrySingleton.pdb
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\obj\Debug\PrySingleton.csprojResolveAssemblyReference.cache
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\obj\Debug\PrySingleton.Main.resources
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\obj\Debug\PrySingleton.Properties.Resources.resources
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\obj\Debug\PrySingleton.csproj.GenerateResource.Cache
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\obj\Debug\PrySingleton.exe
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\obj\Debug\PrySingleton.pdb
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\obj\Debug\PrySingleton.frmProductos.resources
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\bin\Debug\MySql.Data.dll
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\bin\Debug\MySql.Data.xml
+C:\Users\Ruth_n\Documents\Visual Studio 2012\Projects\PrySingleton\PrySingleton\obj\Debug\PrySingleton.frmDetalles.resources
